@@ -1,0 +1,5 @@
+# This script uses standard Python libraries
+# No external dependencies required
+
+# To build EXE (optional):
+# pyinstaller>=6.0.0
