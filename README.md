@@ -110,7 +110,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 👨‍💻 Developer
 
-Hasan
+xDeust
 
 ## 🐛 Bug Reports
 
@@ -119,3 +119,4 @@ If you encounter any issues, please report them on the [Issues](https://github.c
 ---
 
 ⭐ If you like this project, don't forget to give it a star!
+
