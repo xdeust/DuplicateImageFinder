@@ -23,7 +23,7 @@ A Python script to detect duplicate image files in your Downloads folder.
 ```bash
 # Clone the repository
 git clone https://github.com/xdeust/DuplicateImageFinder.git
-cd duplicate-image-finder
+cd DuplicateImageFinder
 
 # Run the script
 python find_duplicate_images.py
@@ -119,5 +119,6 @@ If you encounter any issues, please report them on the [Issues](https://github.c
 ---
 
 ⭐ If you like this project, don't forget to give it a star!
+
 
 
