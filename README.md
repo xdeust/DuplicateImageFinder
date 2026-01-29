@@ -114,11 +114,12 @@ xDeust
 
 ## 🐛 Bug Reports
 
-If you encounter any issues, please report them on the [Issues](https://github.com/xdeust/duplicate-image-finder/issues) page.
+If you encounter any issues, please report them on the [Issues](https://github.com/xdeust/duplicateimagefinder/issues) page.
 
 ---
 
 ⭐ If you like this project, don't forget to give it a star!
+
 
 
 
