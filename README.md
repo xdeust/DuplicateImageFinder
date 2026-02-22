@@ -33,7 +33,7 @@ python find_duplicate_images.py
 
 No Python installation required! Just download `DuplicateImageFinder.exe` and double-click to run.
 
-[Click to Download Latest Version](https://github.com/xdeust/DuplicateImageFinder/releases/latest/download/v1.0.0/DuplicateImageFinder.exe)
+[Click to Download Latest Version](https://github.com/xdeust/DuplicateImageFinder/releases/latest/download/DuplicateImageFinder.exe)
 
 ## 🚀 Usage
 
@@ -121,6 +121,7 @@ If you encounter any issues, please report them on the [Issues](https://github.c
 ---
 
 ⭐ If you like this project, don't forget to give it a star!
+
 
 
 
